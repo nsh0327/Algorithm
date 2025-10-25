@@ -1,0 +1,3 @@
+﻿  Busan_Train.cpp
+C:\Users\kayu1\Desktop\알고리즘\코드\5week\5week\5week\Busan_Train.cpp(64,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  5week.vcxproj -> C:\Users\kayu1\Desktop\알고리즘\코드\5week\5week\x64\Debug\5week.exe
